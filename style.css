@@ -1,7 +1,7 @@
 /* Colors and fonts */
 
 body {
-background-color: white ;
+background-color: red ;
 color: white;
 text-align: center;
 font-weight: 10;
@@ -13,10 +13,8 @@ h1{
 	font-weight: 120;
 	color: #235095;
 }
-
 p {
 	font-size: 20px;
-
 }
 
 h2 {
@@ -25,32 +23,27 @@ h2 {
 	font-weight: 120;
 	color: #235095;
 }
-
 h3 {
 	font-size: 35px;
 	font-family: Times;
 	font-weight: 120;
 	color: #235095;
 }
-
 a {
 	text-decoration: none;
 	color: #235095;
 	font-size: 20px;
 }
-
 div {
 
 	background: black ;
 }
-
 /* Custom design with class */
 
 .container {
 	width: 700px;
 	margin: 50px auto; 
 }
-
 .btn-white {
 	background-color: white;
 	padding: 20px;
@@ -60,23 +53,17 @@ div {
 	margin-top: 50px!important;
 	text-align: center;
 	width: 275px;
-
 }
-
 .img-circle {
 	border-radius: 50% ;
-
 }
-
 ul > li > a > i.fa-brands {
   color: white;
 }
-
 .list-inline {
 	list-style: none;
 	padding-left: 0px;
 }
-
 .list-inline li {
 	display: inline;
 	padding: 10px;
@@ -84,7 +71,6 @@ ul > li > a > i.fa-brands {
 .list-inline i {
 font-size: 40px;
 }
-
 
 @media (max-width: 760px) {
 	.container {
